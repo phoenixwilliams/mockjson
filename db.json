@@ -1,11 +1,1 @@
-{
-  "posts": ]
-    {"id":1, "title":"Post 1", "description": "this is description 1"}
-    ],
-    "comments": [
-      {"id":1,"body": "comment 1", "postId":1}
-      ],
-      "profile":{
-        "name": "Profile 1"
-    }
- }
+{"name":"sonoo","salary":600000.0,"age":27}
