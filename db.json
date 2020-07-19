@@ -1,8 +1,9 @@
 {
-  "posts": [
+  "main_image": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "dad face",
+      "src": "https://imgur.com/T9gqoJp"
     }
   ],
   "profile": {
