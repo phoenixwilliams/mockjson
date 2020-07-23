@@ -1,6 +1,9 @@
 {
   "main_page":
     {
-      "main_logo_src": "https://i.imgur.com/9HyWBYb.jpg"
+      "main_logo_src": "https://i.imgur.com/jTj7hMC.jpg",
+      "contact_logo_src":"https://i.imgur.com/Jb8BKmL.jpg?1",
+      "blog_logo_src":"https://i.imgur.com/np3gNIv.jpg",
+      "work_logo_src":"https://i.imgur.com/x9vTePb.jpg"
     }
 }
